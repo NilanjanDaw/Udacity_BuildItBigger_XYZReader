@@ -29,9 +29,11 @@ Transformed the user experience of a news reading app using Material Design prin
 
 ## UI
 
-![Screenshot_1](/Screenshot_1.png)
-![Screenshot_2](/Screenshot_3.png)
-![Screenshot_3](/Screenshot_2.png)
+<img src="/Screenshot_1.png" width="300px" height="500px" hspace="40px" />
+
+<img src="/Screenshot_3.png" width="300px" height="500px" hspace="40px"/>
+<div height="40px" />
+<img src="/Screenshot_2.png" width="500px" height="300px" />
 
 ## License
 
